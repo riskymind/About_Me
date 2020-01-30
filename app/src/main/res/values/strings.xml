@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Kelechi Opara</string>
+
+    <string name="bio">
+        Hi, my name is Kelechi.
+        \n\nI love God.
+        \n\nHe forgives me per seconds even when i intentionally sin
+        \n\nMy sins are great but His Love is Greater
+        \n\nEven thou I walked through the shadow of death i fear no evil
+        \n\nHe fixed me daily even when forget to pray
+        \n\nHe guides all my Love ones
+        \n\nI am proud to say I am a child of God
+        \n\nSo called me Child of God if u forget my Name
+        \n\nIt\'s fine by me
+        \n\nSinged....Opara Kelechi
+        \n\nPeace!!!
+    </string>
+    <string name="hint_name">What is your nick name</string>
+    <string name="done">Done</string>
+</resources>
